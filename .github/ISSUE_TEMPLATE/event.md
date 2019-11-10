@@ -29,8 +29,25 @@ Agenda
 - **20:30** Last 2 talks && talks from the ground
 - **21:00** Go home
 
-## Next up
+---
 
-<!-- Post matter
-- 
--->
+<details>
+  <summary>checklist</summary>
+
+- issue creation
+  - [x] github issue
+  - [ ] website
+  - [ ] calendar event
+  - [ ] submit event info to [engineers.sg's spreadsheet](https://docs.google.com/spreadsheets/d/1N8kiq4PFp2Z8POsqhX6GIBBZGxNB3itfC_3l1_TdzCY/edit#gid=0)
+- tweets
+  - [ ] event date / cfp / link to page
+  - [ ] venue sponsor
+  - [ ] engineers.sg
+  - [ ] theme if applicable
+  - [ ] talk proposals
+- pre event
+  - [ ] send rsvp name list
+  - [ ] pick a snack place (prefer local & relatively quiet)
+  - [ ] react updates
+  
+</details>
